@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumber">1</Variable>
+  <Variable
+    Name="VersionNumberDot"
+    OriginalName="VersionNumberDot">1.0</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print Only Topics/PDG Guide B Title.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/7X9/Title7X9.flpgl"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print Only Topics/Copyright.htm"
+    StartPageLayout="true"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/7X9/Copyright7X9.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print Only Topics/PrintTOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/7X9/TOC7X9.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Extra Topic 2"
+    Link="/Content/B_Extra Topics/Extra Topic 2.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
+    PageNumber="1"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 2 Extra Topic 3"
+    Link="/Content/B_Extra Topics/Extra Topic 3.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CH 3 Extra Topic 4"
+    Link="/Content/B_Extra Topics/Extra Topic 4.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="PrintIndex"
+    Link="/Content/Print Only Topics/PrintIndex.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/7X9/Index7X9.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+</CatapultToc>

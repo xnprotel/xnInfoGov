@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="HTML5 Output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/A_Introduction Topics/Topic 1.htm"
+  MasterToc="/Project/TOCs/OnlineOutputs.fltoc"
+  ConditionTagExpression="include[General.Online]exclude[General.Print or PrintGuides.PDFGuideA or PrintGuides.PDFGuideB]"
+  InsertMOTW="true"
+  MasterPage="/Content/Resources/MasterPages/MasterPageWebsite.flmsp"
+  AliasFile="/Project/Advanced/AliasFile.flali"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/MyDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

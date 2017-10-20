@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/xpsPDFPolicyA4.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/xpsPolicyA4/xpsPolicyA4.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/xpsStyles.css"
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

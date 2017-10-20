@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>xnPOS</Term>
+    </Terms>
+    <Definition
+      Link="">Xn protel Systems' full-service, cloud-hosted point of sale solution.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Cloud</Term>
+    </Terms>
+    <Definition
+      Link="">“Cloud computing” or “in the cloud” refers to software delivered over the internet.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Hosted</Term>
+    </Terms>
+    <Definition
+      Link="">The software is installed on off-site hardware, often in a large data centre.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>On-premise</Term>
+    </Terms>
+    <Definition
+      Link="">Software is installed on hardware located on-site at customer premises.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Information assets</Term>
+    </Terms>
+    <Definition
+      Link="">Items or bodies of information, an information storage system or an information processing system which is of value to XPS.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Information system</Term>
+    </Terms>
+    <Definition
+      Link="">A related set of hardware and software organised for the collection, processing, storage, communication, or disposition of information.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Confidentiality</Term>
+    </Terms>
+    <Definition
+      Link="">The information is only being seen or used by people who are authorised to access it.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Integrity</Term>
+    </Terms>
+    <Definition
+      Link="">Means that any changes to the information by an unauthorised user are impossible (or at least detected), and changes by an authorised users are tracked.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Availability</Term>
+    </Terms>
+    <Definition
+      Link="">The information is accessible when an authorised users need it.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Information security policy</Term>
+    </Terms>
+    <Definition
+      Link="">A documented list of management instructions that describe in detail the proper use and management of computer and network resources with the objective to protect these resources as well as the information stored or processed by information systems from any unauthorised disclosure, modifications or destruction.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Classified information</Term>
+    </Terms>
+    <Definition
+      Link="">Refers to the categories of information classified in accordance with the Security Regulations.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Staff</Term>
+    </Terms>
+    <Definition
+      Link="">Persons employed by Xn protel Systems irrespective of the employment period and terms.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Data centre</Term>
+    </Terms>
+    <Definition
+      Link="">A centralised data processing facility that houses Information Systems and related equipment. A control section is usually provided that accepts work from and releases output to users.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Computer room</Term>
+    </Terms>
+    <Definition
+      Link="">A dedicated room for housing computer equipment.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Malicious code</Term>
+    </Terms>
+    <Definition
+      Link="">Programs intended to perform an unauthorised process that will have adverse impact on the confidentiality, integrity, or availability of an information system. Examples of malicious codes include computer viruses, worms, Trojan horses, and spyware etc.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Mobile devices</Term>
+    </Terms>
+    <Definition
+      Link="">Portable computing and communication devices with information storage and processing capability. Examples include portable computers, mobile phones, tablets, digital cameras, and audio or video recording devices.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Removable media</Term>
+    </Terms>
+    <Definition
+      Link="">Portable electronic storage media such as magnetic, optical, and flash memory devices, which can be inserted into and removed from a computing device. Examples include external hard disks or solid-state drives, floppy disks, zip disks, optical disks, tapes, memory cards, flash drives, and similar USB storage devices.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>DC</Term>
+    </Terms>
+    <Definition
+      Link="">(See Data centre)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>SDLC</Term>
+    </Terms>
+    <Definition
+      Link="">Software Development Life Cycle</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>IS</Term>
+    </Terms>
+    <Definition
+      Link="">Information security</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

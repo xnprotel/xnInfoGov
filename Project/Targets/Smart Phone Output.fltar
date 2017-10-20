@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="Mobile Output"
+  Type="WebHelpMobile"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/SmartPhoneSkin.flskn"
+  MasterToc="/Project/TOCs/OnlineOutputs.fltoc"
+  ConditionTagExpression="include[General.Online]exclude[General.Print or PrintGuides.PDFGuideA or PrintGuides.PDFGuideB]"
+  MasterPage="/Content/Resources/MasterPages/MasterPageSmartPhone.flmsp"
+  Medium="Mobile"
+  AliasFile="/Project/Advanced/AliasFile.flali"
+  EnableSitemap="false"
+  SitemapWebUrl=""
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

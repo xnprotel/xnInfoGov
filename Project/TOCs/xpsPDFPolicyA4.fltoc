@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="policyTitlePage"
+    Link="/Content/xnPOS P&amp;P Topics/policyTitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/xpsA4/xpsTitleA4.flpgl" />
+  <TocEntry
+    Title="policyCopyright"
+    Link="/Content/xnPOS P&amp;P Topics/policyCopyright.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/xpsA4/xpsCopyrightA4.flpgl" />
+  <TocEntry
+    Title="policyTOC"
+    Link="/Content/xnPOS P&amp;P Topics/policyTOC.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/xpsA4/xpsTOCA4.flpgl" />
+  <TocEntry
+    Title="xn Information Security Policy"
+    Link="/Content/xnPOS P&amp;P Topics/xnISP.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/xpsPolicyA4/xpsPolicyA4.flpgl"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="Network Security policy"
+    Link="/Content/xnPOS P&amp;P Topics/Network security.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageNumber="1"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageLayout="/Content/Resources/PageLayouts/xpsPolicyA4/xpsPolicyA4.flpgl" />
+  <TocEntry
+    Title="Change control policy"
+    Link="/Content/xnPOS P&amp;P Topics/Change control.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumber="3"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageLayout="/Content/Resources/PageLayouts/xpsPolicyA4/xpsPolicyA4.flpgl" />
+  <TocEntry
+    Title="Secure development and testing policy"
+    Link="/Content/xnPOS P&amp;P Topics/Secure development and testing.htm" />
+  <TocEntry
+    Title="Glossary"
+    Link="/Content/xnPOS P&amp;P Topics/policyGlossary.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue" />
+</CatapultToc>

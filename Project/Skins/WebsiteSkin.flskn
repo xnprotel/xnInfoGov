@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  SkinType="WebHelp2"
+  Comment="HTML5 skin"
+  Anchors="Width,Height"
+  Width="800"
+  Height="600"
+  Top="0"
+  Left="0"
+  Bottom="0"
+  Right="0"
+  Tabs="TOC,Index,Glossary,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="True"
+  UseDefaultBrowserSetup="True"
+  conditions=""
+  AutoSyncTOC="true"
+  NavigationLinkTop="true"
+  NavigationLinkBottom="true"
+  CommentsInTopic="true">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Navigation Panel">
+        <Properties>
+          <Property
+            Name="BorderTopLeftRadius">8px</Property>
+          <Property
+            Name="BorderTopRightRadius">8px</Property>
+          <Property
+            Name="BorderBottomRightRadius">8px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">8px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Navigation Tab (active)">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#f0f8ff</Property>
+          <Property
+            Name="BackgroundGradient">vertical #f0f8ff #f0f8ff</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

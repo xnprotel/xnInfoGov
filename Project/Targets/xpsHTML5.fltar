@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="HTML5 Output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="all"
+  MasterToc="/Project/TOCs/xpsHTML5Outputs.fltoc"
+  ConditionTagExpression="include[General.Online]exclude[General.Print or PrintGuides.PDFGuideA or PrintGuides.PDFGuideB]"
+  InsertMOTW="true"
+  MasterPage="/Content/Resources/MasterPages/MasterPageWebsite.flmsp"
+  AliasFile="/Project/Advanced/AliasFile.flali"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  MasterStylesheet="/Content/Resources/Stylesheets/xpsStyles.css"
+  Skin="/Project/Skins/xpsHTML5.flskn"
+  TargetLanguage="en-au"
+  Medium="non-print">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/MyDestination.fldes" />
+  </Destinations>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/ISP Glossary.flglo" />
+    <Glossary
+      Link="/Project/Glossaries/Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/xpsPDFPolicyA4.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/xpsPolicyA4/xpsPolicyA4.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/xpsStyles.css"
+  GetLatestBeforeCompile="true"
+  ConditionTagExpression="include[General.Print] exclude[General.Online] "
+  PatchHeadingLevels="false"
+  GlossaryTermConversion="first"
+  TargetLanguage="en-au">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <DocumentProperties
+    Author="Ian Van Kretschmar"
+    Title="XPS Information Security Policy"
+    Subject="Corporate governance &amp; compliance policy, procedures and standards" />
+  <PDF
+    InitialMagnification="100"
+    PageMode="UseOutlines"
+    PageLayout="SinglePage"
+    RequireOpenPassword="true"
+    OpenPassword="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqbVM5zNZmESrUCRf/QEArAAAAAACAAAAAAAQZgAAAAEAACAAAACLLs4Ovy5SQCVsRYwBtGvZA9g9C0ov3KRHNk6WTHCm+wAAAAAOgAAAAAIAACAAAABDP1YV0044dfd6dbEBV6R9brSX6ikeO3CGFGDIIUSjUiAAAACNeGXNeipfK/xQwcwgmdHp+SPEhsy03945+WAm60gnEkAAAACH+9h+S7A9ftY/futKefWU5RdVAwVVdZqfRj7imYWM+Mx1xN9U0CRyNtf85dAkUud4q3tMnajL7wmacadidXkY"
+    CollapsedBookmarks="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Glossary.flglo" />
+    <Glossary
+      Link="/Project/Glossaries/ISP Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>

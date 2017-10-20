@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="CurrentYear"
+    OriginalName="Year">2017</Variable>
+  <Variable
+    Name="Phone"
+    Comment=""
+    Definition="Some text">+44 (0)333 006 6271</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text">Xn protel Systems</Variable>
+  <Variable
+    Name="StreetAddress1"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress1">Unit 6 / E2 Boundary Court</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text">Derby, DE74 2NN, UK</Variable>
+  <Variable
+    Name="StreetAddress2"
+    Comment=""
+    OriginalName="StreetAddress2">Warke Flatt
+, Willow Farm Business Park</Variable>
+  <Variable
+    Name="StreetAddress3"
+    Comment=""
+    OriginalName="StreetAddress3">Castle Donington</Variable>
+  <Variable
+    Name="Service"
+    Comment="">xnPOS</Variable>
+</CatapultVariableSet>
